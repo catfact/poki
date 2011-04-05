@@ -1,0 +1,332 @@
+// !$*UTF8*$!
+{
+	089C1669FE841209C02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Deployment;
+		activeExecutable = DF6AC9F512801E93009CC530 /* MaxMSP */;
+		activeTarget = 2FBBEAD608F335360078DB84 /* max-external */;
+		addToTargets = (
+			2FBBEAD608F335360078DB84 /* max-external */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = DFC6A7AD1268E419003CA8F0 /* Code sense */;
+		executables = (
+			DF6AC9F512801E93009CC530 /* MaxMSP */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					297,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					685,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					452,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 310713208;
+			PBXWorkspaceStateSaveDate = 310713208;
+		};
+		perUserProjectItems = {
+			DF545B2E1285317F009B5528 /* PBXTextBookmark */ = DF545B2E1285317F009B5528 /* PBXTextBookmark */;
+			DF545B3112853519009B5528 /* PBXTextBookmark */ = DF545B3112853519009B5528 /* PBXTextBookmark */;
+			DF6AC941127F615F009CC530 /* PBXTextBookmark */ = DF6AC941127F615F009CC530 /* PBXTextBookmark */;
+			DF6AC96F127F81C5009CC530 /* PBXTextBookmark */ = DF6AC96F127F81C5009CC530 /* PBXTextBookmark */;
+			DF6AC972127F81C5009CC530 /* PBXTextBookmark */ = DF6AC972127F81C5009CC530 /* PBXTextBookmark */;
+			DF6AC973127F81C5009CC530 /* PBXTextBookmark */ = DF6AC973127F81C5009CC530 /* PBXTextBookmark */;
+			DF6AC9FA12801E9B009CC530 /* PBXTextBookmark */ = DF6AC9FA12801E9B009CC530 /* PBXTextBookmark */;
+			DF6AC9FC12801E9B009CC530 /* PlistBookmark */ = DF6AC9FC12801E9B009CC530 /* PlistBookmark */;
+			DF6AC9FE12801E9B009CC530 /* PBXTextBookmark */ = DF6AC9FE12801E9B009CC530 /* PBXTextBookmark */;
+			DF6ACA0212801E9B009CC530 /* PlistBookmark */ = DF6ACA0212801E9B009CC530 /* PlistBookmark */;
+			DF6ACA0412801E9B009CC530 /* PBXTextBookmark */ = DF6ACA0412801E9B009CC530 /* PBXTextBookmark */;
+		};
+		sourceControlManager = DFC6A7AC1268E419003CA8F0 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	22922AD20F38D67900B1EFEA /* commonsyms.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {670, 625}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 269}";
+		};
+	};
+	22CF10220EE984600054F513 /* maxmspsdk.xcconfig */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {840, 658}}";
+			sepNavSelRange = "{724, 0}";
+			sepNavVisRange = "{0, 1438}";
+			sepNavWindowFrame = "{{310, 82}, {947, 665}}";
+		};
+	};
+	2FBBEAD608F335360078DB84 /* max-external */ = {
+		activeExec = 0;
+	};
+	DF545B2E1285317F009B5528 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "error: ‘phaseInc’ undeclared (first use in this function)";
+		fRef = DF6AC924127F5F99009CC530 /* poki~.c */;
+		rLen = 1;
+		rLoc = 129;
+		rType = 1;
+	};
+	DF545B3112853519009B5528 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DF6AC924127F5F99009CC530 /* poki~.c */;
+		name = "poki~.c: 130";
+		rLen = 26;
+		rLoc = 2898;
+		rType = 0;
+		vrLen = 1022;
+		vrLoc = 2417;
+	};
+	DF6AC924127F5F99009CC530 /* poki~.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {863, 3080}}";
+			sepNavSelRange = "{2898, 26}";
+			sepNavVisRange = "{2417, 1022}";
+		};
+	};
+	DF6AC941127F615F009CC530 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 22CF10220EE984600054F513 /* maxmspsdk.xcconfig */;
+		name = "maxmspsdk.xcconfig: 18";
+		rLen = 0;
+		rLoc = 494;
+		rType = 0;
+		vrLen = 1466;
+		vrLoc = 0;
+	};
+	DF6AC96F127F81C5009CC530 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DF6AC970127F81C5009CC530 /* z_dsp.h */;
+		name = "z_dsp.h: 10";
+		rLen = 19;
+		rLoc = 196;
+		rType = 0;
+		vrLen = 1342;
+		vrLoc = 2667;
+	};
+	DF6AC970127F81C5009CC530 /* z_dsp.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = z_dsp.h;
+		path = "/Users/chronosaur/Desktop/ezezb/MaxSDK-5.1.1/c74support/msp-includes/z_dsp.h";
+		sourceTree = "<absolute>";
+	};
+	DF6AC972127F81C5009CC530 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DF6AC924127F5F99009CC530 /* poki~.c */;
+		name = "poki~.c: 58";
+		rLen = 5;
+		rLoc = 1797;
+		rType = 0;
+		vrLen = 811;
+		vrLoc = 1327;
+	};
+	DF6AC973127F81C5009CC530 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DF6AC974127F81C5009CC530 /* z_dsp.h */;
+		name = "z_dsp.h: 10";
+		rLen = 19;
+		rLoc = 196;
+		rType = 0;
+		vrLen = 1342;
+		vrLoc = 2667;
+	};
+	DF6AC974127F81C5009CC530 /* z_dsp.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = z_dsp.h;
+		path = "/Users/chronosaur/Desktop/ezezb/MaxSDK-5.1.1/c74support/msp-includes/z_dsp.h";
+		sourceTree = "<absolute>";
+	};
+	DF6AC9F512801E93009CC530 /* MaxMSP */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+			"PBXLSLaunchAction-0" = {
+				PBXLSLaunchAction = 0;
+				PBXLSLaunchStartAction = 1;
+				PBXLSLaunchStdioStyle = 2;
+				PBXLSLaunchStyle = 0;
+				class = PBXLSRunLaunchConfig;
+				commandLineArgs = (
+				);
+				displayName = "Executable Runner";
+				environment = {
+				};
+				identifier = com.apple.Xcode.launch.runConfig;
+				remoteHostInfo = "";
+				startActionInfo = "";
+			};
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		launchableReference = DF6AC9F612801E93009CC530 /* MaxMSP.app */;
+		libgmallocEnabled = 0;
+		name = MaxMSP;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+	};
+	DF6AC9F612801E93009CC530 /* MaxMSP.app */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = wrapper.application;
+		name = MaxMSP.app;
+		path = /Applications/Max5/MaxMSP.app;
+		sourceTree = "<absolute>";
+	};
+	DF6AC9FA12801E9B009CC530 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DF6AC9FB12801E9B009CC530 /* PkgInfo */;
+		name = "PkgInfo: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 8;
+		vrLoc = 0;
+	};
+	DF6AC9FB12801E9B009CC530 /* PkgInfo */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text;
+		name = PkgInfo;
+		path = "/Users/chronosaur/Desktop/ezezb/_poke/poki~/build/Development/poki~.mxo/Contents/PkgInfo";
+		sourceTree = "<absolute>";
+	};
+	DF6AC9FC12801E9B009CC530 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = DF6AC9FD12801E9B009CC530 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/chronosaur/Desktop/ezezb/sdk-build/poki~.mxo/Contents/Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	DF6AC9FD12801E9B009CC530 /* Info.plist */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.plist.xml;
+		name = Info.plist;
+		path = "/Users/chronosaur/Desktop/ezezb/sdk-build/poki~.mxo/Contents/Info.plist";
+		sourceTree = "<absolute>";
+	};
+	DF6AC9FE12801E9B009CC530 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 22CF10220EE984600054F513 /* maxmspsdk.xcconfig */;
+		name = "maxmspsdk.xcconfig: 20";
+		rLen = 0;
+		rLoc = 724;
+		rType = 0;
+		vrLen = 1438;
+		vrLoc = 0;
+	};
+	DF6ACA0212801E9B009CC530 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = DF6ACA0312801E9B009CC530 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/chronosaur/Desktop/ezezb/sdk-build/poki~.mxo/Contents/Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	DF6ACA0312801E9B009CC530 /* Info.plist */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.plist.xml;
+		name = Info.plist;
+		path = "/Users/chronosaur/Desktop/ezezb/sdk-build/poki~.mxo/Contents/Info.plist";
+		sourceTree = "<absolute>";
+	};
+	DF6ACA0412801E9B009CC530 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DF6ACA0512801E9B009CC530 /* PkgInfo */;
+		name = "PkgInfo: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 8;
+		vrLoc = 0;
+	};
+	DF6ACA0512801E9B009CC530 /* PkgInfo */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text;
+		name = PkgInfo;
+		path = "/Users/chronosaur/Desktop/ezezb/_poke/poki~/build/Development/poki~.mxo/Contents/PkgInfo";
+		sourceTree = "<absolute>";
+	};
+	DFC6A7AC1268E419003CA8F0 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	DFC6A7AD1268E419003CA8F0 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}
