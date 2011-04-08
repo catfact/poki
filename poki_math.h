@@ -5,11 +5,6 @@
   created 11/16/10 emb
 */
 
-// #define Abs(x)    ((x) < 0 ? -(x) : (x))
-// #define Max(a, b) ((a) > (b) ? (a) : (b))
-
-//inline double abs(double x) { return ((x < 0.0) ? -1.0 * x : x); }
-
 /*
 double RelDif(double a, double b)
 {

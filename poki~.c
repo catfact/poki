@@ -107,7 +107,6 @@ t_int *poki_perform(t_int *w)
 	
 	t_buffer *b = x->p_buf;
 	float *tab;
-  //  long idx;
   long frames,nc;
 	
 	if (x->p_obj.z_disabled)
@@ -180,7 +179,7 @@ t_int *poki_perform(t_int *w)
       }
       else
       { 
-        /*
+        /* // FIXME: this behavior is potentially useful, should be an option
         // no recording, use overdub level only
         input = 0.0;
         if (absDif(x->p_preLevel, 1.0) < 0.001)
@@ -221,9 +220,10 @@ t_int *poki_perform(t_int *w)
 				}
 			} // interp count < thresh
       
+			// no interpolation
 			//*out = tab[idx];
       
-      // output with interpolation 
+      // location and float offset 
       const long iIdx = (long)(*index);
       const float fIdx = *index - (long)(*index);
       
