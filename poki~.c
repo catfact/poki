@@ -199,6 +199,9 @@ t_int *poki_perform(t_int *w)
       // perform interpolation
 			if (interpCount <= x->p_interpThresholdSamps)
 			{
+				// FIXME: get higher-order interpolation working and add option to switch.
+				// usually there is not really an audible improvement.
+				// but i can imaginge someone wanting it for some extreme purpose. -emb
         /*
 				const float y3 = x->p_y0;
 				const float y2 = tab[(x->p_idx0 - step) % frames];
@@ -211,8 +214,9 @@ t_int *poki_perform(t_int *w)
 				
 				while (interpCount > 0)
 				{
+					// 3rd-order:
 					// tab[interpIdx] = hermite_interp(phase, y0, y1, y2, y3);
-          // not going to attempt higher-order interpolation of input, just yet
+					// linear:
 					tab[interpIdx] = x->p_y0 + (phase * (input - x->p_y0));
 					phase += phaseInc;
 					interpIdx = ((interpIdx + 1) % frames);
